@@ -16,7 +16,8 @@ Diabetes 130-US hospitals for years 1999-2008 Data Set is publicly accessible fr
 Before we move action to actual modeling, preproessing with the data is always required. We applied several types of methods here:
 
 1. Cleaning tasks such as dropping bad data, dealing with missing values.
-2. Modification of existing features e.g. standardization, log transforms etc.
-3. Creation or derivation of new features, usually from existing ones.
+2. Creation new features from existing ones
+3. Modification of existing features e.g. standardization, log transforms etc.
+
 Ipython notebook used to preprocess data can be found [here](https://github.com/lilyvalley/Tracking-NIH-Grants/blob/master/ipython_notebook/Mapping%20grant%20to%20publication.ipynb).
 
