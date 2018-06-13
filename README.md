@@ -19,5 +19,5 @@ Before we move action to actual modeling, preproessing with the data is always r
 2. Creation new features from existing ones
 3. Modification of existing features e.g. standardization, log transforms etc.
 
-Ipython notebook used to preprocess data can be found [here](https://github.com/lilyvalley/Tracking-NIH-Grants/blob/master/ipython_notebook/Mapping%20grant%20to%20publication.ipynb).
+Ipython notebook used to preprocess data can be found [here](https://github.com/zhihuaqi/DiaControl/blob/master/ipython_notebook/data_processing.ipynb).
 
