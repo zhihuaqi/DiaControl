@@ -21,5 +21,7 @@ Before we move action to actual modeling, preproessing with the data is always r
 
 Ipython notebook used to preprocess data can be found [here](https://github.com/zhihuaqi/DiaControl/blob/master/ipython_notebook/data_processing.ipynb).
 ## 4. Exploratory data analysis – some insights.
-Before we using our data for the model training, we 
+Before we using our data for the model training, we visualized some statistical results  with the preprocessed data,, in order to find further hints on feature engineering.
+Ipython notebook used to preprocess data can be found [here](https://github.com/zhihuaqi/DiaControl/blob/master/ipython_notebook/data_processing2.ipynb).
+## 5. Make predictions – Whether or not a diabetic patient will have further hospital stay.
 
