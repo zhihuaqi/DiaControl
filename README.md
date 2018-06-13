@@ -20,4 +20,6 @@ Before we move action to actual modeling, preproessing with the data is always r
 3. Modification of existing features e.g. standardization, log transforms etc.
 
 Ipython notebook used to preprocess data can be found [here](https://github.com/zhihuaqi/DiaControl/blob/master/ipython_notebook/data_processing.ipynb).
+## 4. Exploratory data analysis – some insights.
+Before we using our data for the model training, we 
 
