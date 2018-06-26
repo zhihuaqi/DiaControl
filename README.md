@@ -18,10 +18,14 @@ Before we move action to actual modeling, preproessing with the data is always r
 1. Cleaning tasks such as dropping bad data, dealing with missing values.
 2. Creation new features from existing ones
 3. Modification of existing features e.g. standardization, log transforms etc.
+4. remove 19 medications, but remain insulin.
 
 Ipython notebook used to preprocess data can be found [here](https://github.com/zhihuaqi/DiaControl/blob/master/ipython_notebook/data_processing.ipynb).
 ## 4. Exploratory data analysis – some insights.
 Before we using our data for the model training, we visualized some statistical results  with the preprocessed data,, in order to find further hints on feature engineering.
+Inpatient visits last year have different behaviors in different admission groups
 Ipython notebook used to preprocess data can be found [here](https://github.com/zhihuaqi/DiaControl/blob/master/ipython_notebook/data_processing2.ipynb).
 ## 5. Make predictions – Whether or not a diabetic patient will have further hospital stay.
+After balancing data by downsampling the marjority class, I fitted the model using Random Forest, and got reasonal precision and recall.
+Ipython notebook used to fit model can be found [here]
 
