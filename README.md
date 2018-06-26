@@ -28,4 +28,5 @@ Ipython notebook used to preprocess data can be found [here](https://github.com/
 ## 5. Make predictions – Whether or not a diabetic patient will have further hospital stay.
 After balancing data by downsampling the marjority class, I fitted the model using Random Forest, and got reasonal precision and recall.
 Ipython notebook used to fit model can be found [here]
+https://github.com/zhihuaqi/DiaControl/blob/master/ipython_notebook/prediction.ipynb
 
