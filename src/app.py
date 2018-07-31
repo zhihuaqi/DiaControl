@@ -10,7 +10,6 @@ import io
 import os
 import pandas as pd
 
-whatever
 
 print(dcc.__version__) # 0.6.0 or above is required
 
